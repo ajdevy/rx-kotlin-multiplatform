@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_main)
 
-    findViewById<TextView>(R.id.main_text).text = createApplicationScreenMessage() + User(name = "user name android")
+    findViewById<TextView>(R.id.main_text).text = """${createApplicationScreenMessage()} and ${User(name = "user name android")}"""
   }
 }
