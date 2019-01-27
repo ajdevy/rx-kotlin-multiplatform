@@ -21,5 +21,16 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-metadata" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-metadata" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-android" level="project" />
+    <orderEntry type="library" exported="" name="SharedCode.SharedCode-metadata" level="project" />
   </component>
 </module>
